@@ -1,0 +1,157 @@
+/* Your code goes here */
+body{
+
+   font-family:Roboto, Helvetica ,sans-serif;
+    
+    }
+    
+    /* style rule for h1 */
+    
+    h1{
+    
+     font-size: 16px;
+    
+    color: #444444;
+    
+  text-align: center;
+    
+    }
+    
+    /* style rule for container class */
+    
+    .container{
+    
+   text-align: center;
+    
+  margin: 5px;
+    
+ font-size: 13px;
+    
+    }
+    
+    /* style rule for class=offerÂ Â */
+    
+    .offer{
+    
+    width: 400px;
+    
+    display: inline-block;
+    
+    margin: 4px;
+    
+    text-align: center;
+    
+    border: 1px solid #cccccc;
+    
+    border-radius: 1px;
+    
+    box-shadow: 0px 2px 2px #dddddd, 0px 0px 5px #dddddd;
+    
+    }
+    
+    /* style rule for class=offerTitleÂ Â */
+    
+    .offerTitle {
+    
+     font-size: 14px;
+    
+    font-weight: bold;
+    
+    color:#ffffff;
+    
+    background-color: #00b3b3;
+    
+     margin: 0px;
+    
+    padding: 15px;
+    
+    }
+    
+    /* style rule for class=offerContents */
+    
+    .offerContents{
+    
+    padding: 20px;
+    
+    border-bottom-left-radius: 2px;
+    
+     border-bottom-right-radius: 2px;
+    
+   background-color: #fafafa;
+    
+    }
+    
+    /* style rule for table */
+    
+    table{
+    
+    width: 100%;
+    
+    background-color: #ffffff;
+    
+   border-spacing: 0;
+    
+   box-shadow: 0px 2px 2px #dddddd, 0px 0px 5px #dddddd;
+    
+    }
+    
+    /* style rule for header cell */
+    
+    th{
+    
+    font-size: 12px;
+    
+     font-style: bold;
+    
+  color: #777777;
+    
+   padding: 10px;
+    
+  margin: 0;
+    
+    text-align: left;
+    
+    border-color: #f1f1f1 ;
+    
+   border-width: 1px;
+    
+     border-bottom: solid;
+    
+    }
+    
+    /* style rule for td */
+    
+    td{
+    
+   font-weight: lighter;
+    
+   color: #444444;
+    
+   padding-left: 10px;
+    
+  padding-right:10px;
+    
+    padding-top:20px;
+    
+    padding-bottom: 20px;
+    
+    margin: 0;
+    
+   text-align: left;
+    border-color: #f1f1f1 ;
+    
+   border-width: 1px;
+    
+    border-bottom: solid;
+    
+    }
+    
+    /* style rule for class=finalValueÂ Â */
+    
+    .finalValue{
+    
+  font-weight: bold;
+    
+    color: #2222ff;
+    
+    }
